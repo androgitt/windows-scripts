@@ -16,9 +16,9 @@ powershell
 .\remove-office.ps1
 
 ## Requirements
-· Windows OS
-· Administrator privileges
-· Internet connection (to download/run SARA)
+- Windows OS
+- Administrator privileges
+- Internet connection (to download/run SARA)
 
 ## Notes
 This script is intended for IT support and system administrators who need a reliable way to fully remove Microsoft Office.
